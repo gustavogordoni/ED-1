@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756125968 source:/home/gustavo/Downloads/BSI-1/Semestre02/estruturaDados/A04 - 25-08/Ex03/main.cpp
+	<iostream>
+	<locale>
+
