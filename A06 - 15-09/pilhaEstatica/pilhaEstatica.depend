@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1757939107 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A06 - 15-09/pilhaEstatica/main.cpp
+	<iostream>
+	"pilhaEstatica.h"
+
+1757939284 /home/gustavo/Downloads/BSI/Semestre02/ED-1/A06 - 15-09/pilhaEstatica/pilhaEstatica.h
+
+1757941067 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A06 - 15-09/pilhaEstatica/pilhaEstatica.cpp
+	<iostream>
+	"pilhaEstatica.h"
+

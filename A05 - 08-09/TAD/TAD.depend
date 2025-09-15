@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1757332051 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A05 - 08-09/TAD/main.cpp
+	<iostream>
+	"ExTAD.h"
+
+1757331564 /home/gustavo/Downloads/BSI/Semestre02/ED-1/A05 - 08-09/TAD/ExTAD.h
+
+1757331786 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A05 - 08-09/TAD/ExTAD.cpp
+	<iostream>
+	<cmath>
+	"ExTAD.h"
+

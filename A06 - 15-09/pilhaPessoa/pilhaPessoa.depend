@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1757941168 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A06 - 15-09/pilhaPessoa/main.cpp
+	<iostream>
+	"pilhaPessoa.h"
+
+1757940543 /home/gustavo/Downloads/BSI/Semestre02/ED-1/A06 - 15-09/pilhaPessoa/pilhaPessoa.h
+	<iostream>
+
+1757940983 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A06 - 15-09/pilhaPessoa/pilhaPessoa.cpp
+	<iostream>
+	"pilhaPessoa.h"
+

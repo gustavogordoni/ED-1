@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1757337081 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A05 - 08-09/Jogador/Jogador.cpp
+	<iostream>
+	"Jogador.h"
+
+1757336851 /home/gustavo/Downloads/BSI/Semestre02/ED-1/A05 - 08-09/Jogador/Jogador.h
+	<iostream>
+
+1757337095 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A05 - 08-09/Jogador/main.cpp
+	<iostream>
+	"Jogador.h"
+
