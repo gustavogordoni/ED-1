@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1758551716 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A07 - 22-09/pilhaDinamicaFuncionario/main.cpp
+	<iostream>
+	"funcionario.h"
+
+1758551268 /home/gustavo/Downloads/BSI/Semestre02/ED-1/A07 - 22-09/pilhaDinamicaFuncionario/funcionario.h
+
+1758552167 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A07 - 22-09/pilhaDinamicaFuncionario/funcionario.cpp
+	<iostream>
+	"funcionario.h"
+

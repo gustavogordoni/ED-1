@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1758545650 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A07 - 22-09/pilhaDinamica/pilhaDinamica.cpp
+	<iostream>
+	"pilhaDinamica.h"
+
+1758545632 /home/gustavo/Downloads/BSI/Semestre02/ED-1/A07 - 22-09/pilhaDinamica/pilhaDinamica.h
+
+1758545664 source:/home/gustavo/Downloads/BSI/Semestre02/ED-1/A07 - 22-09/pilhaDinamica/main.cpp
+	<iostream>
+	"pilhaDinamica.h"
+
