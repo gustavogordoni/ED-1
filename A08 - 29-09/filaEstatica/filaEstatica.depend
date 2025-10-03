@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1759150098 source:e:\bsi\semestre02\filaestatica\filaestatica.cpp
+	<iostream>
+	<stdlib.h>
+	"filaEstatica.h"
+
+1759150098 ica.h"
+
+1759151282 e:\bsi\semestre02\filaestatica\filaestatica.h
+
+1759149082 source:e:\bsi\semestre02\filaestatica\main.cpp
+	<iostream>
+	"filaEstatica.h"
+	<windows.h>
+
+1759149082 >
+
+1759154826 source:/home/gustavo/Downloads/BSI/Semestre02/estruturaDados/A08 - 29-09/filaEstatica/filaEstatica.cpp
+	<iostream>
+	<stdlib.h>
+	"filaEstatica.h"
+
+1759154319 /home/gustavo/Downloads/BSI/Semestre02/estruturaDados/A08 - 29-09/filaEstatica/filaEstatica.h
+
+1759154454 source:/home/gustavo/Downloads/BSI/Semestre02/estruturaDados/A08 - 29-09/filaEstatica/main.cpp
+	<iostream>
+	"filaEstatica.h"
+	<locale>
+
